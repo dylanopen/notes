@@ -1,0 +1,9 @@
+{
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "baseFontSize": 20,
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "system",
+  "nativeMenus": false
+}
